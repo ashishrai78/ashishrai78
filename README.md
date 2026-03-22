@@ -1,9 +1,13 @@
 # 💫 About Me:
 
-## Working on
+#### Working on-
 Building responsive Flutter applications with firebase integration and exploring advance state management patterns.
-#### I`m looking for help with
-Native level code like android and IOS, and best practices for large-scale app structure.<br>BloC pattern, and integrating AI/ML models into Flutter apps.<br>I used to repair mobile devices for 2+ years before becoming a Flutter developer.
+#### I`m looking for help with-
+Native level code like android and IOS, and best practices for large-scale app structure.
+#### Learning-
+BloC pattern, and integrating AI/ML models into Flutter apps.
+#### Fun fact-
+I used to repair mobile devices for 2+ years before becoming a Flutter developer-- So I know both the hardware and software side of phones!
 
 
 ## 🌐 Socials:
